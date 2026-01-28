@@ -1,0 +1,111 @@
+(footprint "TC4-1W+"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "TC4-1W+"
+		(at -0.22 -5.05 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "8dc54a41-7a03-4007-8890-717eb2c246c0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "TC4-1W+"
+		(at -0.22 -3.55 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "d4b3e5fb-a0ac-42d7-bbd5-7099409a71fd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0a901360-8966-4ddd-b662-48f9e7a31484")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "20d5bb2c-1d06-4eab-8530-f88ec9edc49c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -1.79 -2.49)
+		(end 1.86 2.51)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "ea47eb54-45f2-48e8-99b2-ee1a35043501")
+	)
+	(pad "1" smd roundrect
+		(at -1.27 1.59)
+		(size 0.76 1.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "44ad0b38-dd2e-4ace-819c-b6817abaded7")
+	)
+	(pad "2" smd roundrect
+		(at -1.27 -1.59)
+		(size 0.76 1.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "eccee92c-5300-4774-87f5-f3c1beb9cfdb")
+	)
+	(pad "3" smd roundrect
+		(at 0 -1.59)
+		(size 0.76 1.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "7138f298-151e-422a-99f2-18d6f19d2cc7")
+	)
+	(pad "4" smd roundrect
+		(at 1.27 -1.59)
+		(size 0.76 1.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "8188e39c-4eee-4e5f-a80c-5ab008f9e0bb")
+	)
+	(pad "5" smd roundrect
+		(at 1.27 1.59)
+		(size 0.76 1.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "4f9b6dd5-bbcd-439f-9069-de33a64ea66f")
+	)
+	(group ""
+		(uuid "160a7364-8975-4575-a947-ad26d4ca140e")
+		(members "44ad0b38-dd2e-4ace-819c-b6817abaded7" "4f9b6dd5-bbcd-439f-9069-de33a64ea66f"
+			"7138f298-151e-422a-99f2-18d6f19d2cc7" "8188e39c-4eee-4e5f-a80c-5ab008f9e0bb"
+			"eccee92c-5300-4774-87f5-f3c1beb9cfdb"
+		)
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,23 @@
+= README
+
+== Description
+CcSoM_ADC_Board is a Baseboard for the + 
+link: https://github.com/fsnitz/CcSoM[CcSoM]
+
+== Features
+CcSoM_ADC_Board main feature is the link: https://www.analog.com/en/products/ltc2242-10.html[LTC2242-10 10Bit ADC]. +
+For sending information to the PC the Board includes: +
+1x1Gbit Ethernet lan  (based on link:https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/tree/main/ethIO[Extension_Boards_for_Olimex_GateMate ethIO]) +
+2xUSB2 Interfaces 
+
+== Manufacturing notes
+The signal trace witdth to and from the adc to the connector is calculated for the +
+Stackup: JLC041011-3313 (4 Layer, 1 PCBThickness, 1oz inner Copper Weight, 1oz Outer Copper Weight) +
+used link:https://jlcpcb.com/pcb-impedance-calculator[calculator] +
+50Ohm Single-ended: 0.1427 mm (for gbit ethernet traces) +
+100Ohm differential: +
+width:0.1016 mm; spacing:0.1524 mm (for ADC traces)
+
+== Project status
+schematic and pcb has to be reviewed +
+BoM need to be created +
