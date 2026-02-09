@@ -11565,7 +11565,7 @@
 			)
 		)
 		(instances
-			(project "SoM_ADC_Board"
+			(project "CcSoM_ADC_Board"
 				(path "/89922ec2-9b11-4364-a61d-a41963428803"
 					(page "2")
 				)
@@ -11607,7 +11607,7 @@
 			)
 		)
 		(instances
-			(project "SoM_ADC_Board"
+			(project "CcSoM_ADC_Board"
 				(path "/89922ec2-9b11-4364-a61d-a41963428803"
 					(page "10")
 				)
@@ -11839,7 +11839,7 @@
 			)
 		)
 		(instances
-			(project "SoM_ADC_Board"
+			(project "CcSoM_ADC_Board"
 				(path "/89922ec2-9b11-4364-a61d-a41963428803"
 					(page "12")
 				)
@@ -11892,7 +11892,7 @@
 			)
 		)
 		(instances
-			(project "SoM_ADC_Board"
+			(project "CcSoM_ADC_Board"
 				(path "/89922ec2-9b11-4364-a61d-a41963428803"
 					(page "8")
 				)
@@ -11934,7 +11934,7 @@
 			)
 		)
 		(instances
-			(project "SoM_ADC_Board"
+			(project "CcSoM_ADC_Board"
 				(path "/89922ec2-9b11-4364-a61d-a41963428803"
 					(page "11")
 				)
@@ -12053,7 +12053,7 @@
 			)
 		)
 		(instances
-			(project "SoM_ADC_Board"
+			(project "CcSoM_ADC_Board"
 				(path "/89922ec2-9b11-4364-a61d-a41963428803"
 					(page "7")
 				)
@@ -12095,7 +12095,7 @@
 			)
 		)
 		(instances
-			(project "SoM_ADC_Board"
+			(project "CcSoM_ADC_Board"
 				(path "/89922ec2-9b11-4364-a61d-a41963428803"
 					(page "9")
 				)

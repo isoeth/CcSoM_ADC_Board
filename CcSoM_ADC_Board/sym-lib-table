@@ -3,4 +3,5 @@
   (lib (name "ccsom_lib")(type "KiCad")(uri "${KIPRJMOD}/Library/ccsom_lib.kicad_sym")(options "")(descr ""))
   (lib (name "2026-01-14_15-30-11")(type "KiCad")(uri "${KIPRJMOD}/Library/SN74CB3T3306DCUR/KiCADv6/2026-01-14_15-30-11.kicad_sym")(options "")(descr ""))
   (lib (name "SoM_ADC_Board")(type "KiCad")(uri "${KIPRJMOD}/Library/SoM_ADC_Board.kicad_sym")(options "")(descr ""))
+  (lib (name "LTC2242-12")(type "KiCad")(uri "${KIPRJMOD}/Library/LTC2242IUP-12-PBF/2026-02-04_13-58-25.kicad_sym")(options "")(descr ""))
 )

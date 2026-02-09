@@ -7,4 +7,5 @@
   (lib (name "footprints")(type "KiCad")(uri "/home/ismail/Dokumente/0_ismail/0_uni/Semester/9/praxisphase/kicad_projekte/libs/SN74CB3T3306DCTR/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "SN74CB3T3306DCTR")(type "KiCad")(uri "/home/ismail/Dokumente/0_ismail/0_uni/Semester/9/praxisphase/kicad_projekte/libs/SN74CB3T3306DCTR/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "SoM_ADC_Board")(type "KiCad")(uri "${KIPRJMOD}/Library/SoM_ADC_Board/CcSoM_ADC_Board.pretty")(options "")(descr ""))
+  (lib (name "LTC2242-12")(type "KiCad")(uri "${KIPRJMOD}/Library/LTC2242IUP-12-PBF/footprints.pretty")(options "")(descr ""))
 )

@@ -7,8 +7,8 @@ link:https://github.com/fsnitz/CcSoM[CcSoM]
 == Features
 CcSoM_ADC_Board main feature is the link:https://www.analog.com/en/products/ltc2242-10.html[LTC2242-10 10Bit ADC]. +
 For sending information to the PC the Board includes: +
-1x1Gbit Ethernet lan  (based on link:https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/tree/main/ethIO[Extension_Boards_for_Olimex_GateMate ethIO]) +
-2xUSB2 Interfaces 
+1x 1Gbit Ethernet (based on link:https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/tree/main/ethIO[Extension_Boards_for_Olimex_GateMate ethIO]) +
+2x USB2 Interfaces 
 
 == Manufacturing notes
 The signal trace witdth to and from the adc to the connector is calculated for the +
