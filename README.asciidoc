@@ -19,5 +19,4 @@ used link:https://jlcpcb.com/pcb-impedance-calculator[calculator] +
 width:0.1016 mm; spacing:0.1524 mm (for ADC traces)
 
 == Project status
-schematic and pcb has to be reviewed +
-BoM need to be created +
+schematic and pcb has to be reviewed 
