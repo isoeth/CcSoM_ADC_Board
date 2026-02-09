@@ -5,11 +5,12 @@
 	(uuid "548c1ce1-bcef-4889-a565-b19dd0f32009")
 	(paper "A4")
 	(title_block
-		(title "SoM Programmer & Tester")
-		(date "2024-12-20")
+		(title "SoM Programmer & ADC Board")
+		(date "2026-02-09")
 		(rev "0.1")
 		(company "Technische Hochschule Köln")
 		(comment 1 "Felix Sebastian Nitz")
+		(comment 2 "Ismail Özdemirkan")
 	)
 	(lib_symbols
 		(symbol "ccsom_lib:SoM connector"
@@ -3910,28 +3911,6 @@
 			"WC4_P" "WC4_N" "WC5_P" "WC5_N" "WC6_P" "WC6_N" "WC7_P" "WC7_N" "WC8_P"
 			"WC8_N"
 		)
-	)
-	(text_box "Resistor network values if not specified = 200R\n\nColor if not specified = green"
-		(exclude_from_sim no)
-		(at 116.84 140.97 0)
-		(size 50.8 7.62)
-		(margins 0.9525 0.9525 0.9525 0.9525)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify left)
-		)
-		(uuid "5001a26c-5af7-4f14-82ee-2cd5e537e6e3")
 	)
 	(no_connect
 		(at 154.94 78.74)

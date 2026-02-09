@@ -5,7 +5,7 @@
 	(uuid "3c7b7653-ed6b-41aa-ac90-c3d5f04777fe")
 	(paper "A4")
 	(title_block
-		(title "SoM Programmer & Tester")
+		(title "SoM Programmer & ADC")
 		(date "2024-12-20")
 		(rev "0.1")
 		(company "Technische Hochschule Köln")

@@ -5,11 +5,12 @@
 	(uuid "7b1fe4ed-7e7f-4fdd-a140-fd8cdaa6ee5e")
 	(paper "A4")
 	(title_block
-		(title "SoM Programmer & Tester")
-		(date "2024-12-20")
+		(title "SoM Programmer & ADC Board")
+		(date "2026-02-09")
 		(rev "0.1")
 		(company "Technische Hochschule Köln")
 		(comment 1 "Felix Sebastian Nitz")
+		(comment 2 "Ismail Özdemirkan")
 	)
 	(lib_symbols
 		(symbol "ccsom_lib:SoM connector"
@@ -3850,28 +3851,6 @@
 			)
 			(embedded_fonts no)
 		)
-	)
-	(text_box "Resistor network values if not specified = 200R\n\nColor if not specified = green"
-		(exclude_from_sim no)
-		(at 196.85 133.35 0)
-		(size 50.8 7.62)
-		(margins 0.9525 0.9525 0.9525 0.9525)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify left)
-		)
-		(uuid "b881a935-8ccf-4557-94f8-fe0f8dc37cf6")
 	)
 	(no_connect
 		(at 124.46 83.82)

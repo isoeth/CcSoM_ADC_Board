@@ -5,11 +5,12 @@
 	(uuid "ceaea7c4-7bc7-4213-a6ec-7356a3b5aedf")
 	(paper "A4")
 	(title_block
-		(title "SoM Programmer & Tester")
-		(date "2024-12-20")
+		(title "SoM Programmer & ADC Board")
+		(date "2026-02-09")
 		(rev "0.1")
 		(company "Technische Hochschule Köln")
 		(comment 1 "Felix Sebastian Nitz")
+		(comment 2 "Ismail Özdemirkan")
 	)
 	(lib_symbols
 		(symbol "ccsom_lib:SoM connector"
@@ -3851,28 +3852,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text_box "Resistor network values if not specified = 200R\n\nColor if not specified = green"
-		(exclude_from_sim no)
-		(at 233.68 147.32 0)
-		(size 50.8 7.62)
-		(margins 0.9525 0.9525 0.9525 0.9525)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify left)
-		)
-		(uuid "495e3bec-1b18-4c4a-9764-8281c7e56c35")
-	)
 	(no_connect
 		(at 162.56 63.5)
 		(uuid "2171b896-db92-450b-986b-0f0922bd6304")
@@ -3939,24 +3918,6 @@
 		(uuid "2fafdae4-67a8-4c58-ae22-e5ca57b71f07")
 	)
 	(bus_entry
-		(at 201.93 85.09)
-		(size -2.54 2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6e1f2daa-eef1-4a1c-9fef-3d86c2d1f7a4")
-	)
-	(bus_entry
-		(at 201.93 97.79)
-		(size -2.54 2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "78499c45-b380-40d4-8703-f6bbd8e0caea")
-	)
-	(bus_entry
 		(at 201.93 92.71)
 		(size -2.54 2.54)
 		(stroke
@@ -3966,15 +3927,6 @@
 		(uuid "797f5cd0-c19f-4a54-a0d4-ed940780f929")
 	)
 	(bus_entry
-		(at 201.93 82.55)
-		(size -2.54 2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8a823929-3f16-4e10-940a-56d469c16ea8")
-	)
-	(bus_entry
 		(at 201.93 90.17)
 		(size -2.54 2.54)
 		(stroke
@@ -3982,15 +3934,6 @@
 			(type default)
 		)
 		(uuid "bf5f82c4-c7ec-4c8a-866e-4b43ed6f5933")
-	)
-	(bus_entry
-		(at 201.93 100.33)
-		(size -2.54 2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d74788a1-f239-44eb-8abd-52c90a96b844")
 	)
 	(bus_entry
 		(at 201.93 87.63)
@@ -4020,16 +3963,6 @@
 			(type default)
 		)
 		(uuid "0ea60c30-64b0-4290-a80b-70ca31602fe5")
-	)
-	(bus
-		(pts
-			(xy 201.93 82.55) (xy 201.93 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f717bf1-556d-4289-8ff9-a1c3f1685b0f")
 	)
 	(wire
 		(pts
@@ -4071,16 +4004,6 @@
 		)
 		(uuid "1d77cf1c-3334-4476-b4c2-d0fc2f583c2c")
 	)
-	(bus
-		(pts
-			(xy 201.93 85.09) (xy 201.93 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "21d5f38a-31a5-46fe-a33e-c8f9581115c1")
-	)
 	(wire
 		(pts
 			(xy 107.95 90.17) (xy 119.38 90.17)
@@ -4100,16 +4023,6 @@
 			(type default)
 		)
 		(uuid "313a8f01-2581-4f38-b2a3-02532f644e40")
-	)
-	(wire
-		(pts
-			(xy 199.39 100.33) (xy 193.04 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "314a0b5e-9290-41d4-9b33-0310ae53697b")
 	)
 	(wire
 		(pts
@@ -4180,26 +4093,6 @@
 			(type default)
 		)
 		(uuid "570740ec-1b52-4d02-bb4c-498193397d3b")
-	)
-	(wire
-		(pts
-			(xy 199.39 102.87) (xy 195.58 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "591774b9-0b9c-4712-9a2d-8229d6cc5653")
-	)
-	(bus
-		(pts
-			(xy 201.93 100.33) (xy 201.93 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5a3e2148-44ab-42de-adc8-5b014bb623a9")
 	)
 	(wire
 		(pts
@@ -4361,16 +4254,6 @@
 		)
 		(uuid "cd7b7d4f-41a9-4f53-9d2d-425126ad686e")
 	)
-	(bus
-		(pts
-			(xy 201.93 95.25) (xy 201.93 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d6d4f7a8-3f25-427c-bb6f-3ef7857a6a43")
-	)
 	(wire
 		(pts
 			(xy 107.95 85.09) (xy 119.38 85.09)
@@ -4451,36 +4334,6 @@
 		)
 		(uuid "fc37b128-ca15-4e53-8ff0-da7c29c2f348")
 	)
-	(label "SB0_P"
-		(at 199.39 85.09 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "1320e75c-f93f-4e5d-9af6-6ea9d17e451e")
-	)
-	(label "SB0_N"
-		(at 199.39 87.63 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "1726f7ee-dbfd-4af2-abf5-2dc843a9fb29")
-	)
-	(label "SB1_P"
-		(at 199.39 102.87 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "2b4f29ff-b83f-46f4-9098-dfdaafc9679f")
-	)
 	(label "SB3_N"
 		(at 199.39 95.25 180)
 		(effects
@@ -4490,16 +4343,6 @@
 			(justify right bottom)
 		)
 		(uuid "31b1860e-5595-4b3c-bed2-063bd83bb8c4")
-	)
-	(label "SB1_N"
-		(at 199.39 100.33 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "35d70ded-0de8-4c91-8848-403112e0da35")
 	)
 	(label "SB2_N"
 		(at 199.39 92.71 180)
@@ -4555,7 +4398,7 @@
 	)
 	(global_label "{SB_1-3}"
 		(shape input)
-		(at 201.93 82.55 0)
+		(at 201.93 87.63 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4565,7 +4408,7 @@
 		)
 		(uuid "0db0c166-77c8-4f2d-b672-ce07314dfd26")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 214.0471 82.55 0)
+			(at 214.0471 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)

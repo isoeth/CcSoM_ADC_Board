@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "6e78cf1d-2d78-4381-9cb9-e319a262e6cb")
 	(paper "A4")
+	(title_block
+		(title "SoM Programmer & ADC Board")
+		(date "2026-02-09")
+		(rev "0.1")
+		(company "Technische Hochschule Köln")
+	)
 	(lib_symbols
 		(symbol "ADC_Adapter_prototyp_rev_013e0_eagle7-eagle-import:C-EUC0805"
 			(exclude_from_sim no)

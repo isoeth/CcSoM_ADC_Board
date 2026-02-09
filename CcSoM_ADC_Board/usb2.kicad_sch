@@ -4,6 +4,13 @@
 	(generator_version "9.0")
 	(uuid "3ea09f85-5f06-40b3-9833-3c1aff46646e")
 	(paper "A4")
+	(title_block
+		(title "SoM Programmer & ADC Board")
+		(date "2026-02-09")
+		(rev "0.1")
+		(company "Technische Hochschule Köln")
+		(comment 1 "Ismail Özdemirkan")
+	)
 	(lib_symbols
 		(symbol "Connector:USB_A"
 			(pin_names

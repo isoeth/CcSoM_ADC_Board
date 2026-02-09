@@ -5,11 +5,12 @@
 	(uuid "89922ec2-9b11-4364-a61d-a41963428803")
 	(paper "A4")
 	(title_block
-		(title "SoM Programmer & Tester")
-		(date "2024-12-20")
+		(title "SoM Programmer & ADC Board")
+		(date "2026-02-09")
 		(rev "0.1")
 		(company "Technische Hochschule Köln")
 		(comment 1 "Felix Sebastian Nitz")
+		(comment 2 "Ismail Özdemirkan")
 	)
 	(lib_symbols
 		(symbol "74xGxx:74AUP1G04"
@@ -5682,28 +5683,6 @@
 			)
 		)
 		(uuid "b4c36f67-fabf-4917-81b1-c350ae752cf2")
-	)
-	(text_box "Resistor values if not specified = 200R\n\nColor if not specified = green"
-		(exclude_from_sim no)
-		(at 240.03 156.21 0)
-		(size 43.18 7.62)
-		(margins 0.9525 0.9525 0.9525 0.9525)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify left)
-		)
-		(uuid "3afb5c40-e899-4bfa-9068-be15d0e65f7d")
 	)
 	(junction
 		(at 149.86 137.16)
