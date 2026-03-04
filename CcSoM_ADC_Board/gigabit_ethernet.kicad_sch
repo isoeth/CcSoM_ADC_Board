@@ -6977,6 +6977,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "2019-RK73B1ETTP511JCT-ND"
+			(at 251.46 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1ac81445-d84b-4ea4-bf39-f5782e2f65a8")
 		)
@@ -7154,6 +7163,15 @@
 			)
 		)
 		(property "MPN" "TSX-3225_25.0000MF10P-C0"
+			(at 140.97 168.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "SER4211CT-ND "
 			(at 140.97 168.91 90)
 			(effects
 				(font
@@ -8563,6 +8581,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 255.27 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "2019-RK73B1ETTP511JCT-ND"
+			(at 255.27 129.54 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10169,6 +10196,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "1276-CL05B104KP5VPNCCT-ND"
+			(at 27.94 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "54e92296-0044-4e9c-8c54-6851461fbf1f")
 		)
@@ -10806,6 +10842,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 62.23 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "1188-SMDICRTL8211E-VB-CG-ND"
 			(at 62.23 92.71 0)
 			(effects
 				(font

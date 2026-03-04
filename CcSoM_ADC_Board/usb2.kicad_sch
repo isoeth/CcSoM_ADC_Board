@@ -1872,16 +1872,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "D+ and D- is inverted"
-		(exclude_from_sim no)
-		(at 75.438 166.624 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "251e5d44-fe22-40e9-ad53-c0665e3cf042")
-	)
 	(junction
 		(at 92.71 158.75)
 		(diameter 0)
@@ -2548,7 +2538,7 @@
 		)
 		(uuid "f3a82d6c-60fa-47e4-b601-c4acaa32035c")
 	)
-	(label "D_+"
+	(label "D_-"
 		(at 46.99 156.21 0)
 		(effects
 			(font
@@ -2556,9 +2546,9 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "10487b11-4bd6-4b9b-af69-5ec9b835bd61")
+		(uuid "a64d64b6-65d3-4002-be76-374ed2df5efd")
 	)
-	(label "D_-"
+	(label "D_+"
 		(at 46.99 153.67 0)
 		(effects
 			(font
@@ -2566,7 +2556,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "d0b6f033-d68d-4507-92fc-71910bafa129")
+		(uuid "b18e1e4b-f07e-476d-b502-d62b5cc61cc0")
 	)
 	(global_label "USB1_+"
 		(shape input)
@@ -2634,6 +2624,28 @@
 			)
 		)
 	)
+	(global_label "USB2_-"
+		(shape input)
+		(at 100.33 153.67 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0be2d8c9-eb33-41f6-b3ca-dafcb2134dff")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 110.8747 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "USB_DATA0"
 		(shape input)
 		(at 114.3 72.39 0)
@@ -2647,28 +2659,6 @@
 		(uuid "16d53eb9-414c-4bcb-89be-3dec9988463c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 127.6871 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "USB2_-"
-		(shape input)
-		(at 100.33 156.21 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2ee8b576-3573-4736-8eab-4342d28c8823")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 110.8747 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2942,28 +2932,6 @@
 			)
 		)
 	)
-	(global_label "USB2_+"
-		(shape input)
-		(at 100.33 153.67 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d5093fce-2e41-4183-a093-2eafd615a641")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 110.8747 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "USB_DATA2"
 		(shape input)
 		(at 114.3 77.47 0)
@@ -2977,6 +2945,28 @@
 		(uuid "e04b4caa-e747-4118-b5ae-baea09d2b943")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 127.6871 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "USB2_+"
+		(shape input)
+		(at 100.33 156.21 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f32af836-f9f4-431c-8f53-5b59d8d63910")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 110.8747 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3100,7 +3090,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 43.18 72.39 0)
 			(effects
 				(font
@@ -3109,7 +3099,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/schottky.pdf"
 			(at 43.18 72.39 0)
 			(effects
 				(font
@@ -3119,6 +3109,15 @@
 			)
 		)
 		(property "Description" "Schottky diode"
+			(at 43.18 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "478-7800-1-ND"
 			(at 43.18 72.39 0)
 			(effects
 				(font
@@ -3529,6 +3528,15 @@
 			)
 		)
 		(property "Description" "USB Type A connector"
+			(at 25.4 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "380-1412-ND"
 			(at 25.4 77.47 0)
 			(effects
 				(font
@@ -4351,6 +4359,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "RMCF0603FT1K00CT-ND"
+			(at 54.61 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "00f869a2-ef2c-45f9-8243-1274b9a73db3")
 		)
@@ -4413,6 +4430,15 @@
 			)
 		)
 		(property "Description" "Hi-Speed USB ULPI Transceiver, QFN-24"
+			(at 86.36 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "638-1116-1-ND "
 			(at 86.36 80.01 0)
 			(effects
 				(font
@@ -4551,6 +4577,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 57.15 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "296-29072-1-ND"
 			(at 57.15 153.67 0)
 			(effects
 				(font
@@ -5103,6 +5138,15 @@
 			)
 		)
 		(property "Description" "USB Type A connector"
+			(at 35.56 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "380-1412-ND"
 			(at 35.56 153.67 0)
 			(effects
 				(font

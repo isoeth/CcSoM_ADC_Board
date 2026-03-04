@@ -8342,6 +8342,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "SN74LVC00APWE4-ND"
+			(at 36.83 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "b32f1a25-cbe2-4da4-9b4a-fccd90403c75")
 		)
@@ -9306,6 +9315,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "SN74LVC00APWE4-ND"
+			(at 134.62 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "b32f1a25-cbe2-4da4-9b4a-fccd90403c76")
 		)
@@ -9481,6 +9499,15 @@
 			)
 		)
 		(property "Mouser Part Number" "595-SN74AUP1G04DBVR"
+			(at 110.49 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "296-SN74AUP1G04DBVRCT-ND"
 			(at 110.49 134.62 0)
 			(effects
 				(font
@@ -9768,6 +9795,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "SN74LVC00APWE4-ND"
+			(at 27.94 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -10908,6 +10944,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "SN74LVC00APWE4-ND"
+			(at 36.83 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "b32f1a25-cbe2-4da4-9b4a-fccd90403c78")
 		)
@@ -11283,6 +11328,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "SN74LVC00APWE4-ND"
+			(at 134.62 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)

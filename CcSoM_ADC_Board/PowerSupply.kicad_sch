@@ -2177,6 +2177,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "296-39487-1-ND"
+			(at 80.01 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "c62d1689-8e5e-40e7-89cb-1b63cfe68cb5")
 		)
@@ -3250,6 +3259,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "296-3314-1-ND "
+			(at 130.81 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "27c6e446-2762-49d7-9634-a82ecae36eca")
 		)
@@ -4172,7 +4190,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ccsom_Footprint_lib:SOIC-8_5.8x3.81mm"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
 			(at 223.52 36.195 0)
 			(effects
 				(font
@@ -4237,6 +4255,15 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS3307-33DR?qs=g%2FrhRe7LVpT4WdTNIYlIAw%3D%3D"
+			(at 223.52 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "296-52817-1-ND"
 			(at 223.52 44.45 0)
 			(effects
 				(font
@@ -4402,6 +4429,15 @@
 			)
 		)
 		(property "Mouser Part Number" "612-TL3305AF260QG"
+			(at 185.42 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "EG5353CT-ND"
 			(at 185.42 115.57 0)
 			(effects
 				(font

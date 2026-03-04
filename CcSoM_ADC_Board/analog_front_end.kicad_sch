@@ -495,9 +495,9 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Connector:Barrel_Jack"
+		(symbol "Connector:Barrel_Jack_Switch_Pin3Ring"
 			(pin_names
-				(offset 1.016)
+				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -510,7 +510,7 @@
 					)
 				)
 			)
-			(property "Value" "Barrel_Jack"
+			(property "Value" "Barrel_Jack_Switch_Pin3Ring"
 				(at 0 -5.08 0)
 				(effects
 					(font
@@ -536,7 +536,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "DC Barrel Jack"
+			(property "Description" "DC Barrel Jack with an internal switch"
 				(at 0 0 0)
 				(effects
 					(font
@@ -563,7 +563,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "Barrel_Jack_0_1"
+			(symbol "Barrel_Jack_Switch_Pin3Ring_0_1"
 				(rectangle
 					(start -5.08 3.81)
 					(end 5.08 -3.81)
@@ -611,6 +611,18 @@
 						(type outline)
 					)
 				)
+				(polyline
+					(pts
+						(xy 1.27 -2.286) (xy 1.905 -1.651)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
 				(rectangle
 					(start 3.683 3.175)
 					(end -3.302 1.905)
@@ -634,8 +646,20 @@
 						(type none)
 					)
 				)
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 1.27 0) (xy 1.27 -2.286) (xy 0.635 -1.651)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
 			)
-			(symbol "Barrel_Jack_1_1"
+			(symbol "Barrel_Jack_Switch_Pin3Ring_1_1"
 				(pin passive line
 					(at 7.62 2.54 180)
 					(length 2.54)
@@ -655,7 +679,7 @@
 					)
 				)
 				(pin passive line
-					(at 7.62 -2.54 180)
+					(at 7.62 0 180)
 					(length 2.54)
 					(name "~"
 						(effects
@@ -665,6 +689,24 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 -2.54 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3484,6 +3526,12 @@
 		(uuid "2e89252e-d77d-43fe-9540-49d96750862b")
 	)
 	(junction
+		(at 54.61 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "316e5848-3440-4d6a-b259-c283f6bc13b8")
+	)
+	(junction
 		(at 217.17 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4392,6 +4440,16 @@
 			(type default)
 		)
 		(uuid "5d9aa124-7198-43bb-8e5c-d00de5dc4777")
+	)
+	(wire
+		(pts
+			(xy 54.61 58.42) (xy 54.61 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e5bec60-7717-4766-b4db-fe387e54295d")
 	)
 	(wire
 		(pts
@@ -6622,7 +6680,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 62.23 55.88 0)
 			(effects
 				(font
@@ -6631,7 +6689,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/schottky.pdf"
 			(at 62.23 55.88 0)
 			(effects
 				(font
@@ -6641,6 +6699,15 @@
 			)
 		)
 		(property "Description" "Schottky diode"
+			(at 62.23 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "478-7800-1-ND"
 			(at 62.23 55.88 0)
 			(effects
 				(font
@@ -6881,6 +6948,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 85.09 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "846-MCR01SMQPF12R0CT-ND"
 			(at 85.09 187.96 0)
 			(effects
 				(font
@@ -7302,6 +7378,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "541-10.0LCT-ND"
+			(at 83.82 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4e71b6fa-585b-41ce-b6da-51ffc379253a")
 		)
@@ -7461,7 +7546,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Barrel_Jack")
+		(lib_id "Connector:Barrel_Jack_Switch_Pin3Ring")
 		(at 46.99 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7504,7 +7589,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "DC Barrel Jack"
+		(property "Description" "DC Barrel Jack with an internal switch"
+			(at 46.99 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "4654-FC681465S-ND"
 			(at 46.99 58.42 0)
 			(effects
 				(font
@@ -7518,6 +7612,9 @@
 		)
 		(pin "1"
 			(uuid "1aa8a0b2-c36b-44f0-bec2-1a9dc9e33f0c")
+		)
+		(pin "3"
+			(uuid "8f252ccf-6a88-40e7-91b1-c8666240c5b8")
 		)
 		(instances
 			(project "SoMProgrammerNTester"
@@ -7643,6 +7740,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 68.58 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "478-UBR0402B250FZTR\\500CT-ND"
 			(at 68.58 182.88 0)
 			(effects
 				(font
@@ -7920,6 +8026,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 68.58 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "478-UBR0402B250FZTR\\500CT-ND"
 			(at 68.58 168.91 0)
 			(effects
 				(font
@@ -8285,6 +8400,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "846-MCR01SMQPF12R0CT-ND"
+			(at 85.09 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "455d1d24-9ff0-4f41-ba07-c5b2aaea651c")
 		)
@@ -8568,6 +8692,15 @@
 		)
 		(property "Description" "0.08-200MHz 1:1 RF Transformer, Unbalanced to Balanced Center Tap, 50Ohm"
 			(at 56.134 188.214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "3157-T1-1T-KK81+CT-ND "
+			(at 54.61 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)

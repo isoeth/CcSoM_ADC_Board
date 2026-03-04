@@ -8793,6 +8793,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "RMCF0603FT1K00CT-ND"
+			(at 138.43 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cc4e9a4e-4836-4639-ac94-2eab160f19de")
 		)
@@ -9179,7 +9188,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 50.8 48.26 0)
 			(effects
 				(font
@@ -9188,7 +9197,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/schottky.pdf"
 			(at 50.8 48.26 0)
 			(effects
 				(font
@@ -9199,6 +9208,15 @@
 		)
 		(property "Description" "Schottky diode"
 			(at 50.8 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "478-7800-1-ND"
+			(at 50.8 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9268,6 +9286,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 223.52 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "296-15553-1-ND"
 			(at 223.52 104.14 0)
 			(effects
 				(font
@@ -10256,6 +10283,24 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "300-8197-1-ND"
+			(at 111.76 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ABM3B-12.000MHZ-10-1-U-T "
+			(at 111.76 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "0b710305-8f95-4e08-982b-e0faf332270e")
 		)
@@ -10999,6 +11044,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "296-18196-1-ND"
+			(at 252.73 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -12049,6 +12103,15 @@
 			)
 		)
 		(property "Mouser Part Number" "895-FT2232HL"
+			(at 181.61 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "768-1024-1-ND"
 			(at 181.61 95.25 0)
 			(effects
 				(font
