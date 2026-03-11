@@ -5344,6 +5344,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "399-C0603X103J4HACAUTOCT-ND"
+			(at 146.05 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1317e8cc-65ca-498b-a40a-178e347448f6")
 		)
@@ -5610,6 +5619,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "399-C0603X103J4HACAUTOCT-ND"
+			(at 171.45 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ccdd29bb-d8a0-4caf-9082-34065ea5bdc4")
 		)
@@ -5746,6 +5764,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "399-C0603X103J4HACAUTOCT-ND"
+			(at 285.75 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d95ee817-f04d-4ad6-85ef-904f584942b2")
 		)
@@ -5816,6 +5843,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "1276-1040-1-ND"
+			(at 161.29 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0441b0d3-a208-4975-b296-a27ca41fc688")
 		)
@@ -5877,6 +5913,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 320.04 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "541-1.00KHCT-ND"
 			(at 320.04 146.05 0)
 			(effects
 				(font
@@ -5955,6 +6000,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "399-C0603X103J4HACAUTOCT-ND"
+			(at 171.45 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d2735ad0-60b8-442d-b1a6-83105063f016")
 		)
@@ -6017,6 +6071,15 @@
 		)
 		(property "Description" "Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 303.53 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "609-3487-1-ND"
+			(at 303.53 146.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6098,6 +6161,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 153.67 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "399-C0603X103J4HACAUTOCT-ND"
 			(at 153.67 151.13 0)
 			(effects
 				(font
@@ -6239,6 +6311,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "541-1.00KHCT-ND"
+			(at 299.72 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1e9afb7f-b1fe-4bd3-bf72-d059202be17e")
 		)
@@ -6300,6 +6381,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 292.1 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "541-1.00KHCT-ND"
+			(at 292.1 138.43 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6369,6 +6459,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 151.13 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "399-C0603C105K4RACTUCT-ND"
 			(at 151.13 128.27 0)
 			(effects
 				(font
@@ -6715,6 +6814,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "399-C0603X103J4HACAUTOCT-ND"
+			(at 276.86 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1409e0ad-30a0-4251-994f-1b9328440db4")
 		)
@@ -6779,6 +6887,15 @@
 		)
 		(property "Description" "Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 118.11 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "609-3487-1-ND"
+			(at 118.11 162.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6859,6 +6976,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 276.86 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "399-C0603X103J4HACAUTOCT-ND"
 			(at 276.86 173.99 0)
 			(effects
 				(font
@@ -7066,6 +7192,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "399-C0603X103J4HACAUTOCT-ND"
+			(at 276.86 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "095d71fb-ac72-4108-aee1-be3ad97a64d0")
 		)
@@ -7126,6 +7261,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x02, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 307.34 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "609-4463-1-ND"
 			(at 307.34 123.19 0)
 			(effects
 				(font

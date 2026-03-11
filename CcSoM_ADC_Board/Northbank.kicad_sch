@@ -5338,6 +5338,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "A121565-ND"
+			(at 138.43 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "13"
 			(uuid "f55552b9-71d0-4e6f-8f7b-35c6005abaf6")
 		)

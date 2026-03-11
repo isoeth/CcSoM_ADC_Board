@@ -7559,6 +7559,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "A121565-ND"
+			(at 69.85 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "13"
 			(uuid "bada6a03-a19e-4c5a-82cd-61208650835c")
 		)
@@ -8473,6 +8482,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "732-4979-1-ND"
+			(at 72.39 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5efae721-18b8-4fe1-a8da-3ff119691885")
 		)
@@ -8560,6 +8578,15 @@
 			)
 		)
 		(property "Mouser Part Number" "637-1N4148WT"
+			(at 63.5 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "4878-1N4148WTCT-ND"
 			(at 63.5 48.26 0)
 			(effects
 				(font
@@ -8776,6 +8803,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "311-200HRCT-ND"
+			(at 157.48 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d33eddb6-730c-4738-87b4-13d50ad2626e")
 		)
@@ -8846,6 +8882,15 @@
 		)
 		(property "Mouser Part Number" "71-CRCW0603200RFKEC"
 			(at 66.04 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "311-200HRCT-ND"
+			(at 66.04 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9120,6 +9165,15 @@
 			)
 		)
 		(property "Mouser Part Number" "71-CRCW060347K0FKED"
+			(at 85.09 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "541-47.0KHCT-ND"
 			(at 85.09 33.02 0)
 			(effects
 				(font
@@ -9431,6 +9485,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "664-G800W306018EU-ND"
+			(at 25.4 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "73ce2355-2f8d-4261-b1c7-a48debed9b5f")
 		)
@@ -9669,6 +9732,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 165.1 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "732-4980-1-ND"
 			(at 165.1 142.24 0)
 			(effects
 				(font
@@ -9949,6 +10021,15 @@
 		)
 		(property "Mouser Part Number" "571-1-1473005-1"
 			(at 157.48 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "A121565-ND"
+			(at 157.48 62.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10759,6 +10840,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "664-G800W306018EU-ND"
+			(at 19.05 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "137451d3-bf60-4bac-9d83-545e32a148f4")
 		)
@@ -11138,6 +11228,15 @@
 			)
 		)
 		(property "Mouser Part Number" "637-1N4148WT"
+			(at 64.77 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "4878-1N4148WTCT-ND"
 			(at 64.77 31.75 0)
 			(effects
 				(font

@@ -2403,6 +2403,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "541-47.0KHCT-ND"
+			(at 173.99 110.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bc9b3f53-738f-4ea7-8000-9432cfedddfb")
 		)
@@ -2737,6 +2746,15 @@
 			)
 		)
 		(property "Mouser Part Number" "80-C0603X103J4HAUTO"
+			(at 236.22 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "399-C0603C103K5RACTUCT-ND"
 			(at 236.22 50.8 0)
 			(effects
 				(font
@@ -3563,6 +3581,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "311-1088-1-ND"
+			(at 248.92 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "04006d4a-cf3c-4ee6-a5f5-f097d50773f3")
 		)
@@ -3708,6 +3735,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "311-1088-1-ND"
+			(at 104.14 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d9706066-4856-4524-873e-08e888fe6288")
 		)
@@ -3779,6 +3815,15 @@
 			)
 		)
 		(property "Mouser Part Number" "80-C0603C104M4R7411"
+			(at 204.47 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "311-1088-1-ND"
 			(at 204.47 50.8 0)
 			(effects
 				(font
@@ -3866,6 +3911,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "399-C0603C103K5RACTUCT-ND"
+			(at 91.44 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e1fc580a-c967-470f-82c0-99feb09ba730")
 		)
@@ -3936,6 +3990,15 @@
 		)
 		(property "Mouser Part Number" "71-CRCW0603470KFKEAH"
 			(at 115.57 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "541-470KHCT-ND"
+			(at 115.57 123.19 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4150,6 +4213,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "541-270KHCT-ND"
+			(at 115.57 113.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5dbcd90f-873f-4cb1-ba7b-83190f56528b")
 		)
@@ -4352,6 +4424,15 @@
 			)
 		)
 		(property "Mouser Part Number" "80-C0603C104M4R7411"
+			(at 59.69 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "311-1088-1-ND"
 			(at 59.69 49.53 0)
 			(effects
 				(font
@@ -4649,6 +4730,15 @@
 			)
 		)
 		(property "Mouser Part Number" "80-C0603C104M4R7411"
+			(at 167.64 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "311-1088-1-ND"
 			(at 167.64 127 0)
 			(effects
 				(font

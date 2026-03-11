@@ -1554,6 +1554,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "10129381-916001BLF-ND"
+			(at 40.64 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "831f9e37-0bca-4c78-95d3-89a4349bf8bd")
 		)

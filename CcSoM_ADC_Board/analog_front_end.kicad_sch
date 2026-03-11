@@ -6330,6 +6330,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "ACX1995-ND"
+			(at 30.48 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3e3f046d-dca9-4a09-a8a6-bc87087ff89d")
 		)
@@ -6391,6 +6400,15 @@
 		)
 		(property "Description" "Generic connector, single row, 01x16, script generated"
 			(at 184.15 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "S7014-ND"
+			(at 184.15 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6786,6 +6804,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "S7012-ND"
+			(at 185.42 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "10"
 			(uuid "77f00a71-9cfc-4133-aeb6-5b53ea270396")
 		)
@@ -7034,6 +7061,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "399-C0402C120J5GACTUCT-ND"
+			(at 106.68 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "41da44ed-62b3-43c7-b8c2-1b9e10d0c719")
 		)
@@ -7236,6 +7272,15 @@
 		)
 		(property "Mouser Part Number" "80-C0603C104M4R7411"
 			(at 195.58 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "399-C0603C105K4RACTUCT-ND"
+			(at 195.58 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7464,6 +7509,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "399-C0603C105K4RACTUCT-ND"
+			(at 213.36 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1ccb5746-87dd-442f-86e3-d0d6101b0e7f")
 		)
@@ -7671,6 +7725,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 92.71 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "490-10012-1-ND"
 			(at 92.71 149.86 0)
 			(effects
 				(font
@@ -7900,6 +7963,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "399-C0603C105K4RACTUCT-ND"
+			(at 204.47 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bfc3f60d-4b37-4dad-be5d-09c26c5953e3")
 		)
@@ -8112,6 +8184,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "C0402C104K4RACTU"
+			(at 38.1 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1df9ef6b-80f0-467a-98f7-135acffdf22e")
 		)
@@ -8174,6 +8255,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 245.11 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "S7006-ND"
 			(at 245.11 41.91 0)
 			(effects
 				(font
@@ -8477,6 +8567,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "S7006-ND"
+			(at 250.19 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "996a70c6-e9da-4b91-b718-ed02f13d2016")
 		)
@@ -8556,6 +8655,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 78.74 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "C0402C104K4RACTU"
 			(at 78.74 175.26 0)
 			(effects
 				(font

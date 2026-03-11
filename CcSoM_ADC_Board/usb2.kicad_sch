@@ -3196,6 +3196,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "399-C0603C472K5RACTUCT-ND"
+			(at 22.86 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6a06de26-86f9-40ec-b0e2-a2e62ad49bd3")
 		)
@@ -3332,6 +3341,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "399-C0603C105K4RACTUCT-ND"
+			(at 68.58 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9045fb6d-79b3-4f84-8836-243445d47058")
 		)
@@ -3394,6 +3412,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 120.65 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "399-C0603C105K4RACTUCT-ND"
 			(at 120.65 39.37 0)
 			(effects
 				(font
@@ -4085,6 +4112,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "541-8.06KHCT-ND"
+			(at 64.77 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1ec6b52c-0727-48eb-8737-fe2b01382058")
 		)
@@ -4119,7 +4155,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3uF"
+		(property "Value" "3.3uF"
 			(at 40.64 86.3599 0)
 			(effects
 				(font
@@ -4147,6 +4183,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 36.83 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "399-3481-1-ND"
 			(at 36.83 85.09 0)
 			(effects
 				(font
@@ -4283,6 +4328,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 73.66 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "311-1088-1-ND"
 			(at 73.66 41.91 0)
 			(effects
 				(font
@@ -4806,6 +4860,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 33.02 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "399-C0603C472K5RACTUCT-ND"
 			(at 33.02 173.99 0)
 			(effects
 				(font

@@ -7064,6 +7064,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "541-12.0KHCT-ND"
+			(at 219.71 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "05b9965d-2030-4c43-b7c7-1f77de676a2a")
 		)
@@ -7143,6 +7152,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "311-1088-1-ND"
+			(at 67.31 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "213f30ce-c2e4-4110-a82d-83ad894185e9")
 		)
@@ -7214,6 +7232,15 @@
 			)
 		)
 		(property "Mouser Part Number" "80-C0603C104M4R7411"
+			(at 139.7 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "311-1088-1-ND"
 			(at 139.7 198.12 0)
 			(effects
 				(font
@@ -7565,6 +7592,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "2073-USB4110-GF-A-1-ND"
+			(at 33.02 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "A4"
 			(uuid "ef76c9f8-9de7-4e02-b9a3-0ebf81e1866c")
 		)
@@ -7681,6 +7717,15 @@
 			)
 		)
 		(property "Mouser Part Number" "581-0603YA100JAT2A"
+			(at 128.27 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "311-1058-1-ND"
 			(at 128.27 151.13 0)
 			(effects
 				(font
@@ -7967,6 +8012,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "311-1088-1-ND"
+			(at 167.64 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4d17ff36-08f2-4461-b091-277d5f3d3405")
 		)
@@ -8113,6 +8167,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "311-1088-1-ND"
+			(at 121.92 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "403185f2-20c2-4da7-92e2-4275c41e5829")
 		)
@@ -8184,6 +8247,15 @@
 			)
 		)
 		(property "Mouser Part Number" "80-C0603C104M4R7411"
+			(at 292.1 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "311-1088-1-ND"
 			(at 292.1 100.33 0)
 			(effects
 				(font
@@ -8337,6 +8409,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "311-1088-1-ND"
+			(at 39.37 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "726f5828-7708-4d60-b241-4dd98317e4ac")
 		)
@@ -8482,6 +8563,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "541-10.0KHCT-ND"
+			(at 73.66 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "029eb0ca-23a4-4087-b3d9-356613a45395")
 		)
@@ -8552,6 +8642,15 @@
 		)
 		(property "Mouser Part Number" "71-RCS060356K0FKEA"
 			(at 58.42 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "541-5.10KHCT-ND"
+			(at 58.42 64.77 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8638,6 +8737,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "311-1088-1-ND"
+			(at 134.62 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e2e80b02-8c9e-4c78-bfa4-a482269ddac9")
 		)
@@ -8709,6 +8817,15 @@
 			)
 		)
 		(property "Mouser Part Number" "80-C0603C104M4R7411"
+			(at 153.67 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "311-1088-1-ND"
 			(at 153.67 198.12 0)
 			(effects
 				(font
@@ -8873,6 +8990,15 @@
 			)
 		)
 		(property "Mouser Part Number" "810-C1608X5R1C335KAC"
+			(at 144.78 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "399-3481-1-ND"
 			(at 144.78 59.69 0)
 			(effects
 				(font
@@ -9531,6 +9657,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "445-MMZ1608R601ATD25CT-ND"
+			(at 90.17 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c4bb55f0-912c-48e8-82c0-4f045bb7dd1b")
 		)
@@ -9740,6 +9875,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "541-5.10KHCT-ND"
+			(at 68.58 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ea8e9ca6-6209-4cbe-87f9-f9b02ed8d82b")
 		)
@@ -9885,6 +10029,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "311-1088-1-ND"
+			(at 24.13 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cb289753-4de9-47c7-a4a1-23c79d1deb2f")
 		)
@@ -9956,6 +10109,15 @@
 			)
 		)
 		(property "Mouser Part Number" "71-CRCW060310K0FKED"
+			(at 114.3 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "541-10.0KHCT-ND"
 			(at 114.3 109.22 0)
 			(effects
 				(font
@@ -10043,6 +10205,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "541-2.00KHCT-ND"
+			(at 123.19 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8dd17a86-e507-472c-ac85-8c270ac2d729")
 		)
@@ -10114,6 +10285,15 @@
 			)
 		)
 		(property "Mouser Part Number" "579-93LC46BT-E/ST"
+			(at 100.33 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "93LC46BT-I/STCT-ND"
 			(at 100.33 118.11 0)
 			(effects
 				(font
@@ -10584,6 +10764,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "490-7203-1-ND"
+			(at 109.22 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a0bfc062-801d-4ac7-adc6-7a16e10b961d")
 		)
@@ -10919,6 +11108,15 @@
 		)
 		(property "Mouser Part Number" "810-MMZ1608R601ATD25"
 			(at 80.01 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "445-MMZ1608R601ATD25CT-ND"
+			(at 80.01 27.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11388,6 +11586,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "541-10.0KHCT-ND"
+			(at 123.19 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b7943003-cb2d-45c8-be03-47cf8cdcb432")
 		)
@@ -11664,6 +11871,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "490-7203-1-ND"
+			(at 96.52 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ee381389-771c-4e26-9770-f798a57183fe")
 		)
@@ -11809,6 +12025,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_no" "541-12.0KHCT-ND"
+			(at 143.51 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b88a1a8e-a65d-49af-a814-24741cbdb62d")
 		)
@@ -11879,6 +12104,15 @@
 			)
 		)
 		(property "Mouser Part Number" "581-0603YA100JAT2A"
+			(at 139.7 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "311-1058-1-ND"
 			(at 139.7 151.13 0)
 			(effects
 				(font
@@ -11958,6 +12192,15 @@
 			)
 		)
 		(property "Mouser Part Number" "80-C0603C104M4R7411"
+			(at 53.34 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_no" "311-1088-1-ND"
 			(at 53.34 196.85 0)
 			(effects
 				(font
