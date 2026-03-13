@@ -3,7 +3,7 @@
   (lib (name "ccsom_Footprint_lib")(type "KiCad")(uri "${KIPRJMOD}/Library")(options "")(descr ""))
   (lib (name "test")(type "KiCad")(uri "${KIPRJMOD}/test.pretty")(options "")(descr ""))
   (lib (name "HR911130A1")(type "KiCad")(uri "${KIPRJMOD}/Library/HR911130A1")(options "")(descr ""))
-  (lib (name "LSF0102DCUR")(type "KiCad")(uri "${KIPRJMOD}/Library//LSF0102DCUR")(options "")(descr ""))
+  (lib (name "LSF0102DCUR")(type "KiCad")(uri "${KIPRJMOD}/Library/LSF0102DCUR")(options "")(descr ""))
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/Library/SN74CB3T3306DCTR/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "SN74CB3T3306DCTR")(type "KiCad")(uri "${KIPRJMOD}/Library/SN74CB3T3306DCTR/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "SoM_ADC_Board")(type "KiCad")(uri "${KIPRJMOD}/Library/SoM_ADC_Board/CcSoM_ADC_Board.pretty")(options "")(descr ""))
