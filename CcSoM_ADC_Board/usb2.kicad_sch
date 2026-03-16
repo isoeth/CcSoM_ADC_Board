@@ -4648,6 +4648,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" "595-TXS0202YZPR"
+			(at 57.15 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "C2"
 			(uuid "3e0d0aa9-506c-4805-b8ff-49ed06359b93")
 		)

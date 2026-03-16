@@ -6983,7 +6983,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey_no" "846-MCR01SMQPF12R0CT-ND"
+		(property "DigiKey_no" "YAG2968CT-ND"
 			(at 85.09 187.96 0)
 			(effects
 				(font
@@ -8490,7 +8490,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey_no" "846-MCR01SMQPF12R0CT-ND"
+		(property "DigiKey_no" "YAG2968CT-ND"
 			(at 85.09 163.83 0)
 			(effects
 				(font

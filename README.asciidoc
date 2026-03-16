@@ -18,5 +18,11 @@ used link:https://jlcpcb.com/pcb-impedance-calculator[calculator] +
 100Ohm differential: +
 width:0.1016 mm; spacing:0.1524 mm (for ADC traces)
 
+=== Component notes
+These Components are discontinued on Digikey: 
+
+* SN74LVC00APWE4 
+* TPS73633DBVRG4 
+
 == Project status
 schematic and pcb has to be reviewed 

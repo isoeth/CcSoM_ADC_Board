@@ -1,4 +1,4 @@
-56613447252936
+33628094521667
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -107428,97 +107428,6 @@ WE-RJ45_7498111124
 0
 16
 16
-ccsom_Footprint_lib
-5x3.2_Oscillator
-
-
-0
-4
-4
-ccsom_Footprint_lib
-CASD20TB
-CAS-D20TB-2
-Switch
-0
-6
-6
-ccsom_Footprint_lib
-DCU8
-
-SN74LVC2G53DCUR 
-0
-8
-8
-ccsom_Footprint_lib
-Diff_pair_solderbridge_closed
-Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
-capacitor
-0
-4
-4
-ccsom_Footprint_lib
-OpenHardwareLogo
-
-
-0
-0
-0
-ccsom_Footprint_lib
-PinguinLogo
-
-
-0
-0
-0
-ccsom_Footprint_lib
-QFN18
-
-
-0
-20
-20
-ccsom_Footprint_lib
-SODIMM-200_2.5V_Card_edge
-SODIMM 200-pins edge connector, Jedec MO-224 Variation AA compliant (2.5V DDR SDRAM), 0.6mm pitch, https://www.jst-mfg.com/product/pdf/eng/eDM-200P.pdf
-sodimm
-0
-200
-200
-ccsom_Footprint_lib
-SOIC-8_5.8x3.81mm
-D0008A  SOIC
-Integrated Circuit
-0
-8
-8
-ccsom_Footprint_lib
-SOP-8(150_200MIL)
-
-
-0
-8
-8
-ccsom_Footprint_lib
-SoM_Connector
-DIMM-Steckverbinder 2.5V
-
-0
-202
-202
-ccsom_Footprint_lib
-SolderBridge3Pin
-SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip, labeled with numbers
-net tie solder jumper bridged
-0
-3
-3
-ccsom_Footprint_lib
-Solderbridge_closed
-Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
-capacitor
-0
-4
-2
 footprints
 DCT8
 
