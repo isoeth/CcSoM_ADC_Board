@@ -6051,7 +6051,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical_SMD"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
 			(at 303.53 146.05 0)
 			(effects
 				(font
@@ -6078,7 +6078,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey_no" "609-3487-1-ND"
+		(property "DigiKey_no" "609-3234-ND"
 			(at 303.53 146.05 90)
 			(effects
 				(font
@@ -6867,7 +6867,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical_SMD"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
 			(at 118.11 162.56 0)
 			(effects
 				(font
@@ -6894,7 +6894,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey_no" "609-3487-1-ND"
+		(property "DigiKey_no" "609-3234-ND"
 			(at 118.11 162.56 90)
 			(effects
 				(font
@@ -7242,7 +7242,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical_SMD"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical"
 			(at 307.34 123.19 0)
 			(effects
 				(font
@@ -7269,7 +7269,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey_no" "609-4463-1-ND"
+		(property "DigiKey_no" "609-3233-ND"
 			(at 307.34 123.19 0)
 			(effects
 				(font
