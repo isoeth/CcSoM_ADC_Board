@@ -50662,10 +50662,23 @@
 		(layer "Edge.Cuts")
 		(uuid "f2cf6e20-e730-47b9-be90-25fb72cffe31")
 	)
-	(gr_text "Rev. 0.1\nI Özdemirkan"
-		(at 185.5 64.5 0)
+	(gr_text "CcSoM_ADC_Board\nRev. 0.1\nI Özdemirkan"
+		(at 180.74 65.96 0)
 		(layer "F.Cu")
 		(uuid "7ba378c7-8571-455a-b2ed-e7ec57e0c6ff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.25)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "CcSoM_ADC_Board\nRev. 0.1\nI Özdemirkan"
+		(at 180.73 65.97 0)
+		(layer "F.Mask")
+		(uuid "d592379b-8c39-459f-8403-f0e182f683a4")
 		(effects
 			(font
 				(size 1 1)
@@ -115783,6 +115796,10 @@
 				(xy 226.65038 50.862425)
 			)
 		)
+	)
+	(group ""
+		(uuid "a5af601d-d430-4b3b-a198-d77ef0223ef4")
+		(members "7ba378c7-8571-455a-b2ed-e7ec57e0c6ff" "d592379b-8c39-459f-8403-f0e182f683a4")
 	)
 	(generated
 		(uuid "010175fb-247a-4526-b7b4-c2e76785e68d")
