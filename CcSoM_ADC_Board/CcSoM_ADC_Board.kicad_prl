@@ -15,6 +15,7 @@
       "vias": 1.0,
       "zones": 0.6
     },
+    "prototype_zone_fills": false,
     "ratsnest_display_mode": 0,
     "selection_filter": {
       "dimensions": false,
@@ -51,10 +52,11 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_00000000_82080275",
+    "visible_layers": "00000000_00000000_5555555d_df5d5775",
     "zone_display_mode": 0
   },
   "git": {
+    "integration_disabled": false,
     "repo_password": "",
     "repo_type": "",
     "repo_username": "",
@@ -95,14 +97,14 @@
     ],
     "col_widths": [
       206,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
+      87,
+      102,
+      85,
+      80,
+      120,
+      81,
+      87,
+      42,
       117,
       153,
       997
@@ -114,6 +116,7 @@
     "filter_text": "ov",
     "group_by_constraint": false,
     "group_by_netclass": false,
+    "show_time_domain_details": false,
     "show_unconnected_nets": false,
     "show_zero_pad_nets": false,
     "sort_ascending": true,
@@ -124,6 +127,7 @@
     "files": []
   },
   "schematic": {
+    "hierarchy_collapsed": [],
     "selection_filter": {
       "graphics": true,
       "images": true,
@@ -131,6 +135,7 @@
       "lockedItems": false,
       "otherItems": true,
       "pins": true,
+      "ruleAreas": true,
       "symbols": true,
       "text": true,
       "wires": true
