@@ -767,6 +767,12 @@
           "group_by": false,
           "label": "Reference",
           "name": "Reference",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "DigiKey_no",
+          "name": "DigiKey_no",
           "show": true
         },
         {
@@ -791,19 +797,13 @@
           "group_by": false,
           "label": "Footprint",
           "name": "Footprint",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Mouser Part Number",
           "name": "Mouser Part Number",
           "show": false
-        },
-        {
-          "group_by": false,
-          "label": "DigiKey_no",
-          "name": "DigiKey_no",
-          "show": true
         },
         {
           "group_by": false,
@@ -890,12 +890,12 @@
           "show": false
         }
       ],
-      "filter_string": "r",
-      "group_symbols": true,
+      "filter_string": "595-TPS73633DBVRG4",
+      "group_symbols": false,
       "include_excluded_from_bom": false,
       "name": "",
-      "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_asc": false,
+      "sort_field": "Mouser Part Number"
     },
     "bus_aliases": {
       "EA_even": [
